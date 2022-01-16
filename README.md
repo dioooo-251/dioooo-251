@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm TenZul42_</h1>
+<h1 align="center">Hi 👋, Saya TenZul42_</h1>
 
-<h3 align="center">A passionate frontend developer from Indonesia 🇮🇩</h3>
+<h3 align="center">Selamat Datang Saya Developer Bot Dari Indonesia 🇮🇩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tenzul42&label=Profile%20views&color=0e75b6&style=flat" alt="tenzul42" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on️ **WhatsApp**
 
-- 👨‍💻 All of my projects are available at [hello i'm a beginner here please help 👤](hello i'm a beginner here please help 👤)
+- 👨‍💻 all my projects are about WhatsApp Bot Script
 
 - 📫 How to reach me **zulhanz2133@gmail.com**
 
