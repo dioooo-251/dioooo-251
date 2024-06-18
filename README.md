@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, Saya TenZul42_</h1>
+<h1 align="center">Hi 👋, Saya Zul_</h1>
 
-<h3 align="center">Selamat Datang Saya Developer Bot Dari Indonesia 🇮🇩</h3>
+<h3 align="center">Selamat Datang, Saya Developer Bot Dari Indonesia 🇮🇩</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tenzul42&label=Profile%20views&color=0e75b6&style=flat" alt="tenzul42" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zul&label=Profile%20views&color=0e75b6&style=flat" alt="Zul" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tenzul42" alt="tenzul42" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zul" alt="Zul" /></a> </p>
 
-- 🔭 I’m currently working on **Java Script**
+- I’m currently working on **Java Script**
 
-- 👯 I’m looking to collaborate on️ **WhatsApp**
+- I’m looking to collaborate on️ **WhatsApp**
 
-- 👨‍💻 all my projects are about WhatsApp Bot Script
+- all my projects are about WhatsApp Bot Script
 
-- 📫 How to reach me **zulhanz2133@gmail.com**
+- How to reach me **zulhanz2133@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
